@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/border1.xml" value="0.3359375" />
+        <entry key="app/src/main/res/drawable/border2.xml" value="0.3359375" />
+        <entry key="app/src/main/res/layout/activity_contact_generator.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/activity_instagram_generator.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/activity_link_generator.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_phone_generator.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/activity_show_qr.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/activity_sms_generator.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_whats_app_generator.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/activity_wifi_generator.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/generator_text.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
